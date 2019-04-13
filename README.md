@@ -3,12 +3,12 @@ Object Oriented Programming exercises
 Written by Hadi Frohar
 
 ### Exercises
-* [Shapes] - Geometric shapes - (basics of OOP)
-* [Bomberman-CMD] - Bomberman - simple bomberman game on terminal
-* [Level-editor] - Bomberman level editor - level editor\creator for bomberman game with graphics (SFML)
-* [Bomberman-SFML] - Bomberman game GUI - bomerman GUI game using SFML library
-* [Images-operators] - Images operators - operators overloading for images
-* [Flight-ticket-form] - Flight ticker form - generic form with validators (templates program)
+* [Shapes] - Geometric shapes
+* [Bomberman-CMD] - simple bomberman game on terminal
+* [Level-editor] - level editor\creator for bomberman game with graphics (SFML)
+* [Bomberman-SFML] - bomerman GUI game using SFML library
+* [Images-operators] - operators overloading for images (on terminal)
+* [Flight-ticket-form] - flight ticket reservation form with generic fields and validators (templates program)
 
 [Shapes]: <https://github.com/HadiFrohar/OOP/tree/master/Shapes>
 [Bomberman-CMD]: <https://github.com/HadiFrohar/OOP/tree/master/Bomberman>
