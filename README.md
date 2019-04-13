@@ -1,5 +1,5 @@
 # OOP
-Object Oriented Programming courses
+Object Oriented Programming exercises
 Written by Hadi Frohar
 
 ### Exercises
