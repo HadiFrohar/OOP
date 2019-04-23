@@ -6,7 +6,7 @@ Written by Hadi Frohar
 * [Shapes] - Geometric shapes
 * [Bomberman-CMD] - simple bomberman game on terminal
 * [Level-editor] - level editor\creator for bomberman game with graphics (SFML)
-* [Bomberman-SFML] - bomerman GUI game using SFML library
+* [Bomberman-SFML] - bomerman GUI game using SFML library (Semester A)
 * [Images-operators] - operators overloading for images (on terminal)
 * [Flight-ticket-form] - flight ticket reservation form with generic fields and validators (templates program)
 
