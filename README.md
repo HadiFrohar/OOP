@@ -19,4 +19,4 @@ Written by Hadi Frohar
 [Images-operators]: <https://github.com/HadiFrohar/OOP/tree/master/Images%20(Operators%20Overloading)>
 [Flight-ticket-form]: <https://github.com/HadiFrohar/OOP/tree/master/FlightTicketForm%20(Templates)>
 [Shapes-Calculator]: <https://github.com/HadiFrohar/OOP/tree/master/Shapes%20Calculator%20(Exceptions)>
-[6-Colors_SFML]: <https://github.com/HadiFrohar/OOP/tree/master/6%20Colors>
+[6-Colors-SFML]: <https://github.com/HadiFrohar/OOP/tree/master/6%20Colors>
