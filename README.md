@@ -11,6 +11,7 @@ Written by Hadi Frohar
 * [Flight-ticket-form] - flight ticket reservation form with generic fields and validators (templates program)
 * [Shapes-Calculator] - calculator for different shapes that accepts all possible inputs (doesn't crash)
 * [6-Colors-SFML] - 6 Colors game using SFML library, user vs computer.
+* [Battle-city] - Battle city game
 
 [Shapes]: <https://github.com/HadiFrohar/OOP/tree/master/Shapes>
 [Bomberman-CMD]: <https://github.com/HadiFrohar/OOP/tree/master/Bomberman>
@@ -20,3 +21,4 @@ Written by Hadi Frohar
 [Flight-ticket-form]: <https://github.com/HadiFrohar/OOP/tree/master/FlightTicketForm%20(Templates)>
 [Shapes-Calculator]: <https://github.com/HadiFrohar/OOP/tree/master/Shapes%20Calculator%20(Exceptions)>
 [6-Colors-SFML]: <https://github.com/HadiFrohar/OOP/tree/master/6%20Colors>
+[Battle-city]: <https://github.com/HadiFrohar/OOP/tree/master/Battle-city>
